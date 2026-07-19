@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+
+# Local scratch files generated while designing or testing.
+work/
+outputs/
+.private/
+
+# Dependency and build folders, in case the project later adds a build step.
+node_modules/
+dist/
